@@ -1,5 +1,5 @@
 - 👋 Olá, sou Renan Albuquerque
-- 👀 Sou estudioso e esforçado para conquistar meus objetivos
+- 📈 Sou estudioso e esforçado para conquistar meus objetivos
 - 🌱 Sempre aprendendo coisas novas
 
 Atualmente estudando: <br>
