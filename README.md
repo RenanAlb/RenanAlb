@@ -1,6 +1,7 @@
 - 👋 Olá, sou Renan Albuquerque
 - 📈 Sou estudioso e esforçado para conquistar meus objetivos
 - 🌱 Sempre aprendendo coisas novas
+- 💻 Pretendo trabalhar na área de Front-End
 
 Atualmente estudando: <br>
 <img width='150px' src ='https://img.icons8.com/?size=512&id=108784&format=png'>
